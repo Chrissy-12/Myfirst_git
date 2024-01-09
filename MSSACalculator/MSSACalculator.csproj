@@ -1,14 +1,1 @@
-﻿namespace MSSACalculator
-{
-    public class Program
-    {
-        public static void Main(string[] args)
-        {
-
-        }
-    }
-}
-    public static int Add(int num1, int num2)
-        {
-            return num1 + num2;
-        }
+﻿
