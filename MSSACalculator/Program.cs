@@ -1,7 +1,7 @@
 ﻿namespace MSSACalculator
 {
     public class Program
-    {
+}
         public static void Main(string[] args)
         {
             int num1 = 10;
@@ -13,7 +13,4 @@
         {
             public static int Add(int num1. int num2)
 
-            return num1 + num2;
-
-            
-        }
+            return num1 + num2;}
