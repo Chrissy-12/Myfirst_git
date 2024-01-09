@@ -1,7 +1,4 @@
-﻿#if true
-    n
-#endifamespace MSSACalculator
-{
+﻿namespace M
     public class Program
 }
         public static void Main(string[] args)
