@@ -45,7 +45,3 @@ isEnrolled = false
 Console.Out.WriteLine(doesExist)
 Console.Out.WriteLine(passingGrade)
 Console.Out.WriteLine(isEnrolled)
-
-
-
-
