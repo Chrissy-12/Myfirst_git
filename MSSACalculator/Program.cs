@@ -1,7 +1,7 @@
 ﻿namespace MSSACalculator
-{
+
     public class Program
-    {
+    
         public static void Main(string[] args)
         {
             int num1 = 10;
